@@ -1,6 +1,6 @@
-echo #### JENKINS TESTING 1  ####
+echo  JENKINS TESTING 1  ####
 
 date
 hostname
 
-echo #### JENKINS TESTING 1 DONE ####
+echo  JENKINS TESTING 1 DONE ####
